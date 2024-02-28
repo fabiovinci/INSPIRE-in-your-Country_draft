@@ -2,8 +2,7 @@
 == INSPIRE in your Country
 
 This repository contains the Monitoring and Reporting Information
-(Indicators, Reports and Country fiches) of the countries implementing
-INSPIRE.
+(Indicators, Reports and Country fiches) of the countries implementing INSPIRE.
 
 === Member States
 
