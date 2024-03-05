@@ -170,4 +170,4 @@ Turkey
 
 == How to report new Country fiche
 
-To report a new Country fiche for your country, please follow the instructions available at /how_to_report_new_CF.md[How to report new CF^].
+To report a new Country fiche for your country, please follow the instructions available at link:/how_to_report_new_CF.md[How to report new CF^].
