@@ -1,4 +1,3 @@
-@ -1,169 +0,0 @@
 <h1 class="title" id="page-title">INSPIRE in your Country</h1>
 
               
