@@ -169,7 +169,7 @@
     </div>
 
 
-## How to report new Country fiche
+<h2>How to report new Country fiche</h2>
 
-To report a new Country fiche for your country, please follow the instructions available here ["How to report new Country fiche"](how_to_report_new_CF.md).
+To report a new Country fiche for your country, please follow the instructions available here <a href="how_to_report_new_CF.md">"How to report new Country fiche"</a>.
 </div>
